@@ -1,2 +1,2 @@
-# Passwrdchecker
+# password checker
 password checker using python 
