@@ -5,15 +5,21 @@ This code brute forces a password that a user enters with a max length of 7. doe
 the original code has alot of errors using kimi ai and trial and error these error were resolved. 
 
 #error 1:
+
 the code displayed the conditions for the error after the user enters the password i changed that by putting the print statement above the input statement 
 #error 2 : 
+
 i named charset ="abcdefghijklmnopqrstuvwxyz0123456789" but i defined it as allowed_set in my main function. this happened because i was looking at diff code and i was adjusting this one to my liking 
+
 #error 3:
 start_time was not defined 
+
 #error 4: 
 typo in char.issum 
+
 #error5 : 
 indentation 
+
 3error 6 : 
 added attempts 
 
